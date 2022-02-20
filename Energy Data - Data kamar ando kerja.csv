@@ -1,0 +1,193 @@
+Day,Temperature,RH,Heat Index,Weather,"Time Cond (morning, afternoon, evening)",SWING direction,Heat Source,Fan speed,Temp set AC,Sensor Placing,Tot kWH,Duration(min),Watt Avg
+5-8-2021,29.9,0.60,33,Sunny,Morning,Bawah full,LaptopHuman,1,24,Beside Laptop,0,0,987
+5-8-2021,30,0.61,33,Sunny,Morning,Bawah full,LaptopHuman,1,24,Beside Laptop,0.159,10,996
+5-8-2021,27.2,0.56,28.03,Sunny,Morning,Bawah full,LaptopHuman,1,24,Beside Laptop,0.306,20,924
+5-8-2021,26.8,0.49,27.18,Sunny,Morning,Bawah full,LaptopHuman,1,24,Beside Laptop,0.464,30,990
+5-8-2021,26.7,0.46,26.94,Sunny,Morning,Bawah full,LaptopHuman,1,24,Beside Laptop,0.614,40,942
+5-8-2021,25.7,0.44,25.47,Sunny,Morning,Bawah full,LaptopHuman,1,24,Beside Laptop,0.77,50,978
+5-8-2021,25,0.46,24.76,Sunny,Morning,Bawah full,LaptopHuman,1,24,Beside Laptop,0.93,60,1002
+5-8-2021,25.2,0.45,24.95,Sunny,Morning,Bawah full,LaptopHuman,1,24,Beside Laptop,1.084,70,966
+5-8-2021,24.8,0.45,24.51,Sunny,Morning,Bawah full,LaptopHuman,1,24,Beside Laptop,1.245,80,1008
+5-8-2021,24.5,0.46,24.21,Sunny,Morning,Bawah full,LaptopHuman,1,24,Beside Laptop,1.398,90,960
+5-8-2021,24.4,0.44,24.04,Sunny,Morning,Bawah full,LaptopHuman,1,24,Beside Laptop,1.55,100,954
+5-8-2021,24.4,0.44,24.04,Gerimis,Afternoon,Bawah full,LaptopHuman,1,24,Beside Laptop,1.7,110,942
+5-8-2021,24.4,0.44,24.04,mendung,Afternoon,Bawah full,LaptopHuman,1,24,Beside Laptop,1.862,120,1014
+5-8-2021,24.3,0.43,23.91,gerimis,Afternoon,Bawah full,LaptopHuman,1,24,Beside Laptop,2.015,130,960
+5-8-2021,24.1,0.43,23.69,gerimis,Afternoon,Bawah full,LaptopHuman,1,24,Beside Laptop,2.168,140,960
+5-8-2021,23.8,0.47,23.46,mendung,Afternoon,Bawah full,LaptopHuman,1,24,Beside Laptop,2.32,150,954
+5-8-2021,23.6,0.43,23.14,mendung,Afternoon,Bawah full,LaptopHuman,1,24,Beside Laptop,2.47,160,942
+5-8-2021,23.8,0.45,23.41,mendung,Afternoon,Bawah full,LaptopHuman,1,24,Beside Laptop,2.62,170,942
+5-8-2021,24,0.43,23.58,Sunny,Afternoon,Bawah full,LaptopHuman,1,24,Beside Laptop,2.775,180,972
+5-8-2021,23.7,0.44,23.27,Sunny,Afternoon,Bawah full,LaptopHuman,1,24,Beside Laptop,2.928,190,960
+5-8-2021,23.7,0.43,23.25,Sunny,Afternoon,Bawah full,LaptopHuman,1,24,Beside Laptop,3.081,200,960
+5-8-2021,23.7,0.42,23.22,Sunny,Afternoon,Bawah full,LaptopHuman,1,24,Beside Laptop,3.235,210,966
+5-8-2021,24.5,0.38,24,Sunny,Afternoon,Bawah full,LaptopHuman,1,24,Beside Laptop,3.386,220,948
+5-8-2021,24.7,0.38,24.22,Sunny,Afternoon,Bawah full,LaptopHuman,1,24,Beside Laptop,3.539,230,960
+5-8-2021,24.4,0.38,23.89,Sunny,Afternoon,Bawah full,LaptopHuman,1,24,Beside Laptop,3.689,240,942
+5-8-2021,24.3,0.39,23.8,Sunny,Afternoon,Bawah full,LaptopHuman,1,24,Beside Laptop,3.843,250,966
+5-8-2021,24.6,0.39,24.13,Sunny,Afternoon,Bawah full,LaptopHuman,1,24,Beside Laptop,3.999,260,978
+5-8-2021,24.9,0.39,24.46,Sunny,Afternoon,Bawah full,LaptopHuman,1,24,Beside Laptop,4.15,270,948
+5-8-2021,25.5,0.35,25.02,Sunny,Afternoon,Bawah full,LaptopHuman,1,24,Beside Laptop,4.302,280,954
+5-8-2021,25.6,0.34,25.1,Sunny,Afternoon,Bawah full,LaptopHuman,1,24,Beside Laptop,4.457,290,972
+5-8-2021,25.6,0.35,25.13,Sunny,Afternoon,Bawah full,LaptopHuman,1,24,Beside Laptop,4.61,300,960
+5-8-2021,25.6,0.34,25.1,Sunny,Afternoon,Bawah full,LaptopHuman,1,24,Beside Laptop,4.763,310,960
+5-8-2021,24.5,0.37,23.97,Sunny,Afternoon,Bawah full,LaptopHuman,1,24,Beside Laptop,4.916,320,960
+5-8-2021,23.9,0.39,23.36,Sunny,Afternoon,Bawah full,LaptopHuman,1,24,Beside Laptop,5.068,330,954
+5-8-2021,23.7,0.39,23.14,Sunny,Afternoon,Bawah full,LaptopHuman,1,24,Beside Laptop,5.22,340,954
+5-8-2021,23.8,0.39,23.25,Sunny,Evening,Bawah full,LaptopHuman,1,24,Beside Laptop,5.373,350,960
+5-8-2021,23.9,0.39,23.36,Sunny,Evening,Bawah full,LaptopHuman,1,24,Beside Laptop,5.526,360,960
+5-8-2021,23.8,0.39,23.25,Sunny,Evening,Bawah full,LaptopHuman,1,24,Beside Laptop,5.679,370,960
+5-8-2021,23.8,0.38,23.23,Sunny,Evening,Bawah full,LaptopHuman,1,24,Beside Laptop,5.832,380,960
+5-8-2021,23.7,0.40,23.17,Sunny,Evening,Bawah full,LaptopHuman,1,24,Beside Laptop,5.983,390,948
+5-8-2021,23.3,0.39,22.7,Sunny,Evening,Bawah full,LaptopHuman,1,24,Beside Laptop,6.133,400,942
+5-8-2021,23.4,0.40,22.84,Sunny,Evening,Bawah full,LaptopHuman,1,24,Beside Laptop,6.283,410,942
+5-8-2021,23.2,0.39,22.59,Sunny,Evening,Bawah full,LaptopHuman,1,24,Beside Laptop,6.434,420,948
+5/10/2021,27.8,0.73,30.66,Sunny,Morning,Bawah full,LaptopHuman,1,25,Beside Laptop,0,0,942
+5/10/2021,27.8,0.72,30.53,Sunny,Morning,Bawah full,LaptopHuman,1,25,Beside Laptop,0.148,10,930
+5/10/2021,26.4,0.62,27.46,Sunny,Morning,Bawah full,LaptopHuman,1,25,Beside Laptop,0.305,20,984
+5/10/2021,25.8,0.53,25.82,Sunny,Morning,Bawah full,LaptopHuman,1,22,Beside Laptop,0.465,30,1002
+5/10/2021,25.6,0.48,25.47,Sunny,Morning,Bawah full,LaptopHuman,1,22,Beside Laptop,0.612,40,924
+5/10/2021,25.1,0.46,24.87,Sunny,Morning,Bawah full,LaptopHuman,1,22,Beside Laptop,0.761,50,936
+5/10/2021,24.9,0.43,24.57,Sunny,Morning,Bawah full,LaptopHuman,1,22,Beside Laptop,0.913,60,954
+5/10/2021,24.2,0.44,23.82,Sunny,Morning,Bawah full,LaptopHuman,1,22,Beside Laptop,1.066,70,960
+5/10/2021,23.9,0.44,23.49,Sunny,Morning,Bawah full,LaptopHuman,1,22,Beside Laptop,1.2195,80,963
+5/10/2021,23.6,0.44,23.16,Sunny,Morning,Bawah full,LaptopHuman,1,22,Beside Laptop,1.373,90,963
+5/10/2021,23.5,0.44,23.05,Sunny,Morning,Bawah full,LaptopHuman,1,22,Beside Laptop,1.527,100,966
+5/10/2021,23.5,0.45,23.08,Sunny,Morning,Bawah full,LaptopHuman,1,22,Beside Laptop,1.683,110,978
+5/10/2021,23.9,0.43,23.47,Sunny,Morning,Bawah full,LaptopHuman,1,22,Beside Laptop,1.84,120,984
+5/10/2021,24.1,0.42,23.66,Sunny,Morning,Bawah full,LaptopHuman,1,22,Beside Laptop,1.998,130,990
+5/10/2021,23.6,0.43,23.14,Sunny,Morning,Bawah full,LaptopHuman,1,22,Beside Laptop,2.157,140,996
+5/10/2021,23.7,0.42,23.22,Sunny,Morning,Bawah full,LaptopHuman,1,22,Beside Laptop,2.316,150,996
+5/10/2021,24.2,0.41,23.75,Sunny,Morning,Bawah full,LaptopHuman,1,22,Beside Laptop,2.474,160,990
+5/10/2021,24.3,0.41,23.86,Sunny,Morning,Bawah full,LaptopHuman,1,22,Beside Laptop,2.633,170,996
+5/10/2021,24,0.41,23.53,Sunny,Morning,Bawah full,LaptopHuman,1,22,Beside Laptop,2.792,180,996
+5/10/2021,24,0.40,23.5,Sunny,Morning,Bawah full,LaptopHuman,1,22,Beside Laptop,2.949,190,984
+5/10/2021,24,0.40,23.5,Sunny,Morning,Bawah full,LaptopHuman,1,22,Beside Laptop,3.107,200,990
+5/10/2021,24,0.40,23.5,Sunny,Afternoon,Bawah full,LaptopHuman,1,22,Beside Laptop,3.265,210,990
+5/10/2021,24,0.40,23.5,Sunny,Afternoon,Bawah full,LaptopHuman,1,22,Beside Laptop,3.426,220,1008
+5/10/2021,23.7,0.41,23.2,Sunny,Afternoon,Bawah full,LaptopHuman,1,22,Beside Laptop,3.587,230,1008
+5/10/2021,24,0.42,23.55,Sunny,Afternoon,Bawah full,LaptopHuman,1,22,Beside Laptop,3.75,240,1020
+5/10/2021,24,0.42,23.55,Sunny,Afternoon,Bawah full,LaptopHuman,1,22,Beside Laptop,3.907,250,984
+5/10/2021,24,0.41,23.53,Sunny,Afternoon,Bawah full,LaptopHuman,1,22,Beside Laptop,4.065,260,990
+5/10/2021,24,0.41,23.53,Sunny,Afternoon,Bawah full,LaptopHuman,1,22,Beside Laptop,4.224,270,996
+5/10/2021,23.9,0.41,23.42,Sunny,Afternoon,Bawah full,LaptopHuman,1,22,Beside Laptop,4.383,280,996
+5/10/2021,24,0.40,23.5,Sunny,Afternoon,Bawah full,LaptopHuman,1,22,Beside Laptop,4.543,290,1002
+5/10/2021,24,0.40,23.5,Sunny,Afternoon,Bawah full,LaptopHuman,1,22,Beside Laptop,4.702,300,996
+,,,,,,,,,,,,,
+5/12/2021,28.4,0.50,28.91,Sunny,Afternoon,Atas Full,LaptopHuman,2,24,Beside Laptop,0.000,0,1053
+5/12/2021,28.1,0.54,28.95,Sunny,Afternoon,Atas Full,LaptopHuman,2,24,Beside Laptop,0.180,10,1101
+5/12/2021,27.1,0.50,27.51,Sunny,Afternoon,Atas Full,LaptopHuman,2,24,Beside Laptop,0.363,20,1100
+5/12/2021,26.5,0.47,26.83,Sunny,Afternoon,Atas Full,LaptopHuman,2,24,Beside Laptop,0.545,30,1085
+5/12/2021,26,0.47,25.88,Sunny,Afternoon,Atas Full,LaptopHuman,2,24,Beside Laptop,0.725,40,1080
+5/12/2021,25.9,0.44,25.69,Sunny,Afternoon,Atas Full,LaptopHuman,2,24,Beside Laptop,0.905,50,1070
+5/12/2021,25.6,0.43,25.34,Sunny,Afternoon,Atas Full,LaptopHuman,2,24,Beside Laptop,1.082,60,1064
+5/12/2021,25.5,0.42,25.2,Sunny,Afternoon,Atas Full,LaptopHuman,2,24,Beside Laptop,1.259,70,1055
+5/12/2021,25.4,0.42,25.09,Sunny,Afternoon,Atas Full,LaptopHuman,2,24,Beside Laptop,1.436,80,1067
+5/12/2021,25.3,0.42,24.98,Sunny,Afternoon,Atas Full,LaptopHuman,2,24,Beside Laptop,1.614,90,1065
+5/12/2021,25.2,0.43,24.9,Sunny,Afternoon,Atas Full,LaptopHuman,2,24,Beside Laptop,1.790,100,1048
+5/12/2021,25.3,0.42,24.98,Sunny,Evening,Atas Full,LaptopHuman,2,24,Beside Laptop,1.964,110,1050
+5/12/2021,25.3,0.43,25.01,Sunny,Evening,Atas Full,LaptopHuman,2,24,Beside Laptop,2.139,120,1045
+5/12/2021,25.3,0.42,24.98,Sunny,Evening,Atas Full,LaptopHuman,2,24,Beside Laptop,2.314,130,1055
+5/12/2021,25.3,0.42,24.98,Sunny,Evening,Atas Full,LaptopHuman,2,24,Beside Laptop,2.490,140,1052
+5/14/2021,29.9,0.60,33,Sunny,Night,Atas Full,LaptopHuman,3,24,Beside Laptop,0.000,0,950
+5/14/2021,28.7,0.58,30.26,Sunny,Night,Atas Full,LaptopHuman,3,24,Beside Laptop,0.168,10,1065
+5/14/2021,27.5,0.54,28.22,Sunny,Night,Atas Full,LaptopHuman,3,24,Beside Laptop,0.345,20,1060
+5/14/2021,27,0.50,27.42,Sunny,Night,Atas Full,LaptopHuman,3,24,Beside Laptop,0.521,30,1056
+5/14/2021,26.7,0.48,27.04,Sunny,Night,Atas Full,LaptopHuman,3,24,Beside Laptop,0.698,40,1058
+5/14/2021,26.4,0.47,26.75,Sunny,Night,Atas Full,LaptopHuman,3,24,Beside Laptop,0.873,50,1050
+5/14/2021,26.1,0.46,25.97,Sunny,Night,Atas Full,LaptopHuman,3,24,Beside Laptop,1.048,60,1048
+5/14/2021,25.8,0.44,25.58,Sunny,Night,Atas Full,LaptopHuman,3,24,Beside Laptop,1.222,70,1039
+5/14/2021,25.7,0.46,25.53,Sunny,Night,Atas Full,LaptopHuman,3,24,Beside Laptop,1.396,80,1045
+5/14/2021,25.5,0.44,25.25,Sunny,Night,Atas Full,LaptopHuman,3,24,Beside Laptop,1.569,90,1032
+5/14/2021,25.4,0.44,25.14,Sunny,Night,Atas Full,LaptopHuman,3,24,Beside Laptop,1.741,100,1032
+5/14/2021,25.2,0.44,24.92,Sunny,Night,Atas Full,LaptopHuman,3,24,Beside Laptop,1.913,110,1033
+5/14/2021,25,0.44,24.7,Sunny,Night,Atas Full,LaptopHuman,3,24,Beside Laptop,2.084,120,1020
+5/14/2021,24.9,0.43,24.57,Sunny,Night,Atas Full,LaptopHuman,3,24,Beside Laptop,2.254,130,1023
+5/14/2021,24.7,0.44,24.37,Sunny,Night,Atas Full,LaptopHuman,3,24,Beside Laptop,2.424,140,1015
+5/14/2021,24.6,0.44,24.26,Sunny,Night,Atas Full,LaptopHuman,3,24,Beside Laptop,2.593,150,1015
+5/14/2021,24.5,0.44,24.15,Sunny,Night,Atas Full,LaptopHuman,3,24,Beside Laptop,2.762,160,1017
+5/14/2021,24.4,0.44,24.04,Sunny,Night,Atas Full,LaptopHuman,3,24,Beside Laptop,2.931,170,1010
+5/14/2021,24.4,0.47,24.12,Sunny,Night,Atas Full,LaptopHuman,3,24,Beside Laptop,3.099,180,1007
+5/14/2021,24.4,0.45,24.07,Sunny,Night,Atas Full,LaptopHuman,3,24,Beside Laptop,3.267,190,1004
+5/14/2021,24.4,0.44,24.04,Sunny,Night,Atas Full,LaptopHuman,3,24,Beside Laptop,3.435,200,1009
+5/20/2021,28.9,0.60,30.87,Sunny,Evening,Atas Full,LaptopHuman,0,24,Bed,0.000,0,1000
+5/20/2021,28.9,0.60,30.87,Sunny,Evening,Atas Full,LaptopHuman,0,24,Bed,0.176,10,1110
+5/20/2021,27.5,0.56,28.39,Sunny,Evening,Atas Full,LaptopHuman,0,24,Bed,0.361,20,1106
+5/20/2021,26.8,0.53,27.4,Sunny,Evening,Atas Full,LaptopHuman,0,24,Bed,0.544,30,1090
+5/20/2021,26.2,0.51,26.76,Sunny,Night,Atas Full,LaptopHuman,0,24,Bed,0.725,40,1090
+5/20/2021,26,0.51,25.99,Sunny,Night,Atas Full,LaptopHuman,0,24,Bed,0.906,50,1085
+5/20/2021,25.7,0.49,25.6,Sunny,Night,Atas Full,LaptopHuman,0,24,Bed,1.085,60,1055
+5/20/2021,25.5,0.48,25.36,Sunny,Night,Atas Full,LaptopHuman,0,24,Bed,1.259,70,1033
+5/20/2021,25.4,0.48,25.25,Sunny,Night,Atas Full,LaptopHuman,0,24,Bed,1.432,80,1044
+5/20/2021,25.4,0.48,25.25,Sunny,Night,Atas Full,LaptopHuman,0,24,Bed,1.605,90,1032
+5/20/2021,25.3,0.47,25.11,Sunny,Night,Atas Full,LaptopHuman,0,24,Bed,1.776,100,1025
+5/20/2021,25.2,0.46,24.98,Sunny,Night,Atas Full,LaptopHuman,0,24,Bed,1.946,110,1008
+5/20/2021,25,0.45,24.73,Sunny,Night,Atas Full,LaptopHuman,0,24,Bed,2.113,120,995
+5/20/2021,24.9,0.44,24.59,Sunny,Night,Atas Full,LaptopHuman,0,24,Bed,2.278,130,995
+5/20/2021,24.8,0.44,24.48,Sunny,Night,Atas Full,LaptopHuman,0,24,Bed,2.444,140,990
+5/20/2021,24.5,0.45,24.18,Sunny,Night,Atas Full,LaptopHuman,0,24,Bed,2.609,150,995
+5/20/2021,24.4,0.45,24.07,Sunny,Night,Atas Full,LaptopHuman,0,24,Bed,2.776,160,1000
+5/20/2021,24.4,0.45,24.07,Sunny,Night,Atas Full,LaptopHuman,0,24,Bed,2.942,170,992
+5/20/2021,24.4,0.44,24.04,Sunny,Night,Atas Full,LaptopHuman,0,24,Bed,3.107,180,990
+5/28/2021,29.3,0.66,32.61,Sunny,Night,Atas Full,LaptopHuman,0,25,Beside Laptop,0.000,0,915
+5/28/2021,29.3,0.66,32.61,Sunny,Night,Atas Full,LaptopHuman,0,25,Beside Laptop,0.165,10,1065
+5/28/2021,27.9,0.57,28.99,Sunny,Night,Atas Full,LaptopHuman,0,25,Beside Laptop,0.342,20,1058
+5/28/2021,27.5,0.53,28.14,Sunny,Night,Atas Full,LaptopHuman,0,25,Beside Laptop,0.517,30,1040
+5/28/2021,27,0.50,27.42,Sunny,Night,Atas Full,LaptopHuman,0,25,Beside Laptop,0.690,40,1038
+5/28/2021,26.5,0.50,26.97,Sunny,Night,Atas Full,LaptopHuman,0,25,Beside Laptop,0.862,50,1028
+5/28/2021,26,0.49,25.93,Sunny,Night,Atas Full,LaptopHuman,0,25,Beside Laptop,1.033,60,1025
+5/28/2021,25.8,0.47,25.66,Sunny,Night,Atas Full,LaptopHuman,0,25,Beside Laptop,1.204,70,1020
+5/28/2021,25.5,0.47,25.33,Sunny,Night,Atas Full,LaptopHuman,0,25,Beside Laptop,1.373,80,1015
+5/28/2021,25.3,0.47,25.11,Sunny,Night,Atas Full,LaptopHuman,0,25,Beside Laptop,1.542,90,1010
+5/28/2021,25.1,0.47,24.89,Sunny,Night,Atas Full,LaptopHuman,0,25,Beside Laptop,1.710,100,1005
+5/28/2021,25,0.47,24.78,Sunny,Night,Atas Full,LaptopHuman,0,25,Beside Laptop,1.877,110,1000
+5/28/2021,24.9,0.46,24.65,Sunny,Night,Atas Full,LaptopHuman,0,25,Beside Laptop,2.044,120,1000
+5/28/2021,24.7,0.47,24.45,Sunny,Night,Atas Full,LaptopHuman,0,25,Beside Laptop,2.210,130,999
+5/28/2021,24.6,0.46,24.32,Sunny,Night,Atas Full,LaptopHuman,0,25,Beside Laptop,2.376,140,996
+5/28/2021,24.5,0.46,24.21,Sunny,Night,Atas Full,LaptopHuman,0,25,Beside Laptop,2.543,150,1000
+5/28/2021,24.4,0.46,24.1,Sunny,Night,Atas Full,LaptopHuman,0,25,Beside Laptop,2.709,160,996
+5/28/2021,24.3,0.46,23.99,Sunny,Night,Atas Full,LaptopHuman,0,25,Beside Laptop,2.875,170,1000
+5/28/2021,24.3,0.46,23.99,Sunny,Night,Atas Full,LaptopHuman,0,25,Beside Laptop,3.042,180,996
+5/28/2021,24.2,0.47,23.9,Sunny,Night,Atas Full,LaptopHuman,0,25,Beside Laptop,3.208,190,993
+5/28/2021,24,0.47,23.68,Sunny,Night,Atas Full,LaptopHuman,0,25,Beside Laptop,3.373,200,993
+5/28/2021,24,0.46,23.66,Sunny,Night,Atas Full,LaptopHuman,0,25,Beside Laptop,3.539,210,993
+5/28/2021,24,0.47,23.68,Sunny,Night,Atas Full,LaptopHuman,0,25,Beside Laptop,3.705,220,1000
+5/28/2021,24.1,0.49,23.84,Sunny,Night,Atas Full,LaptopHuman,0,25,Beside Laptop,3.871,230,1000
+5/28/2021,24,0.49,23.73,Sunny,Night,Atas Full,LaptopHuman,0,25,Beside Laptop,4.038,240,1006
+5/28/2021,24,0.49,23.73,Sunny,Night,Atas Full,LaptopHuman,0,25,Beside Laptop,4.206,250,1000
+5/28/2021,24,0.49,23.73,Sunny,Night,Atas Full,LaptopHuman,0,25,Beside Laptop,4.372,260,1000
+5/28/2021,24,0.49,23.73,Sunny,Night,Atas Full,LaptopHuman,0,25,Beside Laptop,4.539,270,996
+5/28/2021,24,0.49,23.73,Sunny,Night,Atas Full,LaptopHuman,0,25,Beside Laptop,4.705,280,996
+5/28/2021,24.1,0.49,23.84,Sunny,Night,Atas Full,LaptopHuman,0,25,Beside Laptop,4.870,290,993
+5/28/2021,24.2,0.48,23.93,Sunny,Night,Atas Full,LaptopHuman,0,25,Beside Laptop,5.036,300,990
+5/29/2021,27.9,0.63,29.63,Sunny,Morning,Atas Full,LaptopHuman,1,24,Beside Laptop,0.000,0,1020
+5/29/2021,28,0.64,29.91,Sunny,Morning,Atas Full,LaptopHuman,1,24,Beside Laptop,0.173,10,1050
+5/29/2021,27.2,0.55,27.96,Sunny,Morning,Atas Full,LaptopHuman,1,24,Beside Laptop,0.349,20,1065
+5/29/2021,26.7,0.51,27.2,Sunny,Morning,Atas Full,LaptopHuman,1,24,Beside Laptop,0.526,30,1067
+5/29/2021,26.2,0.51,26.76,Sunny,Morning,Atas Full,LaptopHuman,1,24,Beside Laptop,0.705,40,1080
+5/29/2021,26.2,0.49,26.68,Sunny,Morning,Atas Full,LaptopHuman,1,24,Beside Laptop,0.885,50,1075
+5/29/2021,25.5,0.50,25.41,Sunny,Morning,Atas Full,LaptopHuman,1,24,Beside Laptop,1.064,60,1075
+5/29/2021,25.4,0.48,25.25,Sunny,Morning,Atas Full,LaptopHuman,1,24,Beside Laptop,1.244,70,1078
+5/29/2021,25.1,0.51,25,Sunny,Morning,Atas Full,LaptopHuman,1,24,Beside Laptop,1.423,80,1080
+5/29/2021,24.8,0.49,24.61,Sunny,Morning,Atas Full,LaptopHuman,1,24,Beside Laptop,1.604,90,1090
+5/29/2021,24.7,0.48,24.48,Sunny,Afternoon,Atas Full,LaptopHuman,1,24,Beside Laptop,1.785,100,1080
+5/29/2021,24.8,0.47,24.56,Sunny,Afternoon,Atas Full,LaptopHuman,1,24,Beside Laptop,1.963,110,1055
+5/29/2021,24.5,0.47,24.23,Sunny,Afternoon,Atas Full,LaptopHuman,1,24,Beside Laptop,2.141,120,1083
+5/29/2021,24.4,0.47,24.12,Sunny,Afternoon,Atas Full,LaptopHuman,1,24,Beside Laptop,2.322,130,1085
+5/29/2021,24.3,0.47,24.01,Sunny,Afternoon,Atas Full,LaptopHuman,1,24,Beside Laptop,2.504,140,1100
+5/29/2021,24.6,0.47,24.34,Sunny,Afternoon,Atas Full,LaptopHuman,1,24,Beside Laptop,2.686,150,1085
+5/29/2021,24.5,0.47,24.23,Sunny,Afternoon,Atas Full,LaptopHuman,1,24,Beside Laptop,2.866,160,1070
+5/29/2021,24.4,0.46,24.1,Sunny,Afternoon,Atas Full,LaptopHuman,1,24,Beside Laptop,3.045,170,1085
+5/29/2021,24.4,0.46,24.1,Sunny,Afternoon,Atas Full,LaptopHuman,1,24,Beside Laptop,3.225,180,1075
+5/29/2021,24.4,0.46,24.1,Sunny,Afternoon,Atas Full,LaptopHuman,1,24,Beside Laptop,3.403,190,1065
+5/29/2021,24.4,0.46,24.1,Sunny,Afternoon,Atas Full,LaptopHuman,1,24,Beside Laptop,3.583,200,1090
+5/29/2021,24.5,0.45,24.18,Sunny,Afternoon,Atas Full,LaptopHuman,1,24,Beside Laptop,3.766,210,1110
+5/29/2021,24.4,0.47,24.12,Sunny,Afternoon,Atas Full,LaptopHuman,1,24,Beside Laptop,3.950,220,1095
+5/29/2021,24.6,0.48,24.37,Sunny,Afternoon,Atas Full,LaptopHuman,1,24,Beside Laptop,4.133,230,1095
+5/29/2021,24.6,0.47,24.34,Sunny,Afternoon,Atas Full,LaptopHuman,1,24,Beside Laptop,4.313,240,1065
+5/29/2021,25,0.45,24.73,Sunny,Afternoon,Atas Full,LaptopHuman,1,24,Beside Laptop,4.491,250,1075
+5/29/2021,25,0.43,24.68,Sunny,Afternoon,Atas Full,LaptopHuman,1,24,Beside Laptop,4.671,260,1080
+5/29/2021,25,0.43,24.68,Sunny,Afternoon,Atas Full,LaptopHuman,1,24,Beside Laptop,4.851,270,1085
+5/29/2021,25.2,0.44,24.92,Sunny,Afternoon,Atas Full,LaptopHuman,1,24,Beside Laptop,5.032,280,1090
+5/29/2021,25.2,0.45,24.95,Sunny,Afternoon,Atas Full,LaptopHuman,1,24,Beside Laptop,5.213,290,1075
+5/29/2021,25.2,0.44,24.92,Sunny,Afternoon,Atas Full,LaptopHuman,1,24,Beside Laptop,5.391,300,1070
